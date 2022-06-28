@@ -1,0 +1,25 @@
+[
+    {
+        "username": "anhhuy123",
+        "password": 123456,
+        "email": "tcahuy.2002@gmail.com",
+        "iD": "1100296481",
+        "name": "Huy",
+        "phoneNumber": "03079737",
+        "balance": 50000,
+        "numberPlate": "C801",
+        "bus": {
+            "numberPlate": "C801",
+            "type": "City",
+            "status": "Currently for rent"
+        },
+        "bankCard": {
+            "pin": 290902,
+            "bankName": "KienLong Bank",
+            "iD": "1100296481",
+            "name": "Khai",
+            "phoneNumber": "03079737",
+            "balance": 9000000
+        }
+    }
+]

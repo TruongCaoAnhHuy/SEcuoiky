@@ -1,0 +1,19 @@
+[
+    {
+    "numberPlate":"F201",
+    "type":"Fixger",
+    "status":"Ready"
+    },
+    
+    {
+        "numberPlate":"F212",
+        "type":"Fixger",
+        "status":"Ready"
+    },
+
+    {
+        "numberPlate":"F213",
+        "type":"Fixger",
+        "status":"Ready"
+    }
+]
